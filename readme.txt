@@ -4,4 +4,4 @@ rev by J.C
 - project path
 	..\pca10056\s140\ses\ble_app_uart_pca10056_s140.emProject
 - main version
-- current 300uA in 1hz mode
+- current 14uA in 1000ms advertising interval
