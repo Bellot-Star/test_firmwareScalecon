@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10056_s140\ Release/Obj/main.o: \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\main.c \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\main.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/string.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/__crossworks.h \
@@ -120,10 +120,10 @@ Output/ble_app_uart_pca10056_s140\ Release/Obj/main.o: \
  h:\chj\nrf5_16\modules\nrfx\hal\nrf_gpio.h \
  h:\chj\nrf5_16\components\boards\pca10056.h \
  h:\chj\nrf5_16\components\libraries\button\app_button.h \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\my_memory.h \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\my_memory.h \
  h:\chj\nrf5_16\components\libraries\fstorage\nrf_fstorage_sd.h \
  h:\chj\nrf5_16\components\libraries\fstorage\nrf_fstorage.h \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\millis.h \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\millis.h \
  h:\chj\nrf5_16\integration\nrfx\legacy\nrf_drv_ppi.h \
  h:\chj\nrf5_16\modules\nrfx\drivers\include\nrfx_ppi.h \
  h:\chj\nrf5_16\modules\nrfx\hal\nrf_ppi.h \
@@ -132,5 +132,5 @@ Output/ble_app_uart_pca10056_s140\ Release/Obj/main.o: \
  h:\chj\nrf5_16\modules\nrfx\hal\nrf_timer.h \
  h:\chj\nrf5_16\modules\nrfx\hal\nrf_uart.h \
  h:\chj\nrf5_16\modules\nrfx\hal\nrf_uarte.h \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\global.h \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\my_board.h
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\global.h \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\my_board.h

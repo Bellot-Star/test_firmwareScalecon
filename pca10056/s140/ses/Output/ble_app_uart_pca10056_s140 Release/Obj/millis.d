@@ -1,6 +1,6 @@
 Output/ble_app_uart_pca10056_s140\ Release/Obj/millis.o: \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\millis.c \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\millis.h \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\millis.c \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\millis.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stddef.h \

@@ -1,5 +1,5 @@
 Output/ble_app_uart_pca10056_s140\ Release/Obj/my_memory.o: \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\my_memory.c \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\my_memory.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 4.52c/include/stddef.h \
@@ -72,7 +72,7 @@ Output/ble_app_uart_pca10056_s140\ Release/Obj/my_memory.o: \
  h:\chj\nrf5_16\components\libraries\balloc\nrf_balloc.h \
  h:\chj\nrf5_16\components\libraries\log\nrf_log_default_backends.h \
  h:\chj\nrf5_16\components\libraries\util\app_error.h \
- H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v02\my_memory.h \
+ H:\CHJ\nRF5_16\examples\ScaleCon\firmware_scalecon_v03\my_memory.h \
  h:\chj\nrf5_16\components\libraries\fstorage\nrf_fstorage_sd.h \
  h:\chj\nrf5_16\components\libraries\fstorage\nrf_fstorage.h \
  h:\chj\nrf5_16\components\libraries\pwr_mgmt\nrf_pwr_mgmt.h \

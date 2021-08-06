@@ -58,7 +58,7 @@
 
 #define APP_BLE_OBSERVER_PRIO           3                                           /**< Application's BLE observer priority. You shouldn't need to modify this value. */
 
-#define APP_ADV_INTERVAL                1600                                          /**< The advertising interval (in units of 0.625 ms. This value corresponds to 40 ms). */
+#define APP_ADV_INTERVAL                3200                                          /**< The advertising interval (in units of 0.625 ms. This value corresponds to 40 ms). */
 
 #define APP_ADV_DURATION                18000                                       /**< The advertising duration (3 seconds) in units of 10 milliseconds. */
 
@@ -1150,10 +1150,10 @@ int main(void)
     log_init();    
     
     init_gpio();
-    RS232_TurnOn(true);
+//    RS232_TurnOn(true);
 
     timers_init();
-    init_millis_timer();
+//    init_millis_timer();
     
     init_fstorage();
 
@@ -1170,9 +1170,8 @@ int main(void)
 
     NRF_LOG_INFO("=========== START ScaleCon ===========\r\n");
     advertising_start();
-//  set_ble_tx_power();
     NRF_LOG_FLUSH();
-    
+     
 //    RS232_TurnOn(false);
     // Enter main loop.
     for (;;)

@@ -26,6 +26,7 @@
   <ProjectSessionItem path="ble_app_uart_pca10056_s140"/>
   <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140"/>
   <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;Application"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Drivers"/>
   <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Libraries"/>
   <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Log"/>
  </Project>
@@ -63,11 +64,11 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1165" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1149" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="16" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v01/main.c" useBinaryEdit="0" left="0" path="../../../my_board.h" selected="0" top="3" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="15" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v01/main.c" useBinaryEdit="0" left="0" path="../../../global.h" selected="0" top="3" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="721" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v01/main.c" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s140/headers/ble_gap.h" selected="0" top="707" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="90" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="74" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1167" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1141" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="465" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v03/main.c" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_uart.h" selected="0" top="442" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="82" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="16" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v03/main.c" useBinaryEdit="0" left="0" path="../../../my_board.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="35" useTextEdit="1" openedFrom="H:/CHJ/nRF5_16/examples/ScaleCon/firmware_scalecon_v03/main.c" useBinaryEdit="0" left="0" path="../../../millis.c" selected="0" top="12" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ble_app_uart_pca10056_s140" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="H:/CHJ/nRF5_16/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ble_app_uart_pca10056_s140" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="H:/CHJ/nRF5_16/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
